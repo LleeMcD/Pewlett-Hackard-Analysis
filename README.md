@@ -1,2 +1,2 @@
-# Pewlett-Hackard-Analysis
-Module 7 SQL
+# Pewlett-Hackard Analysis
+
