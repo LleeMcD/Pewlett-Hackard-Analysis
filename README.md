@@ -19,7 +19,11 @@ The analysis findings were as follows:
   - Assistant Engineer - 1,761
   - Manager - 2
 
-4. There are currently 1,549 employees who are eligible to participate in a mentorship program. These individuals will train new employees to fill the vacant positions. The breakdown of positions for these employees is as follows:
+4. The Sales and Development teams stand to lose 18,928 employees due to retirement.
+- Development 11,627
+- Sales 7,301
+
+5. There are currently 1,549 employees who are eligible to participate in a mentorship program. These individuals will train new employees to fill the vacant positions. The breakdown of positions for these employees is as follows:
   - Senior Engineer - 419
   - Senior Staff - 286
   - Engineer - 289
