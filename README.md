@@ -1,4 +1,4 @@
-# Pewlett-Hackard Analysis - DRAFT
+# Pewlett-Hackard Analysis 
 ## Overview
 Pewlett-Hackard is a large tech company that employs several thousand people. Many of it's employees are baby-boomers, who are at or near retirment age. The purpose of this analysis is to assist Pewlett-Hackard’s management team with the determination of how many positions will be left vacant in the wake of the "Silver Tsunami" and how to address the associated knowlege drain.
 The analysis was focused on the following:
@@ -17,7 +17,7 @@ The analysis findings were as follows:
   - Assistant Engineer 1,761
   - Manager 2
 
-There are currently 1,549 employees who are eligible for participating in a mentorship program. These individuals will train new employees to fill the soon to be vacant positions. The breakdown of positions for these employees is as follows:
+There are currently 1,549 employees who are eligible to participate in a mentorship program. These individuals will train new employees to fill the soon to be vacant positions. The breakdown of positions for these employees is as follows:
   - Senior Engineer 419
   - Senior Staff 286
   - Engineer 289
@@ -33,7 +33,7 @@ Qualifying criteria for the mentorship program are:
 - Birth year 1965. 
 The expectation is that the mentors are more knowledgeable and experienced, so they will be qualified to train new employees to fill the open positions as people retire. With over 90 thousand people retiring, this could pose a challenge. Recommendations based on the findings of the analysis are as follows:
 - Use Six Sigma Lean practices to streamline business processes and eliminate roles that do not support forward momentum.
-- Consider expanding the mentorship program to include younger, experienced employees who clearly demonstrate necessary skills and aptitude.
+- Consider expanding the mentorship program to include younger, more experienced employees who clearly demonstrate necessary skills and aptitude.
 - Use the mentorship program as a catalyst for creating a mentoring culture overall.
 - Provide incentive to delay retirement for productive baby-boomers.
 - Offer consultant positions to selected retirees to help mitigate the knowledge drain as employees retire.
