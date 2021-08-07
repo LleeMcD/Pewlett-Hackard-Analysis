@@ -26,21 +26,18 @@ There are currently 1,549 employees who are eligible for participating in a ment
   - Assistant Engineer 43
   - Manager 0
 
-## Summary
+## Summary and Recommendations
 The majority of soon to be vacated positions are filled by highly skilled and experienced individuals. It could be challenging to find qualified candidates to replace them. Because of this, Pewlett-Hackard created a mentorship program. 
 Qualifying criteria for the mentorship program are:
 - Current employee
 - Birth year 1965. 
-The expectation is that the mentors are more knowledgeable and experienced, so they will be qualified to train new employees to fill the open positions as people retire. With over 90 thousand people retiring, this could pose a challenge. 
-
-## Recommendations
-Recommendations based on the findings of the analysis are as follows:
-- Consider expanding the mentorship program to include a few younger, experienced employees.
-- Use the mentorship program as a catalyst for creating a mentoring culture overall.
+The expectation is that the mentors are more knowledgeable and experienced, so they will be qualified to train new employees to fill the open positions as people retire. With over 90 thousand people retiring, this could pose a challenge. Recommendations based on the findings of the analysis are as follows:
 - Use Six Sigma Lean practices to streamline business processes and eliminate roles that do not support forward momentum.
+- Consider expanding the mentorship program to include younger, experienced employees who clearly demonstrate necessary skills and aptitude.
+- Use the mentorship program as a catalyst for creating a mentoring culture overall.
 - Provide incentive to delay retirement for productive baby-boomers.
 - Offer consultant positions to selected retirees to help mitigate the knowledge drain as employees retire.
- 
+
 
 
 
