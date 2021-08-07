@@ -28,7 +28,7 @@ The analysis findings were as follows:
 
 ## Summary
 The majority of soon to be vacated positions are filled by highly skilled and experienced individuals. It could be challenging to find qualified candidates to replace them. Because of this, Pewlett-Hackard created a mentorship program. 
-Qualifying criteria for the mentorship program were:
+Qualifying criteria for the mentorship program are:
 - Current employee
 - Birth year 1965. 
 The expectation is that the mentors are more knowledgeable and experienced so they will be qualified to train new employees to fill the open positions as people retire. With over 90 thousand people retiring, this does not seem like enough mentors to train new people. Expanding the mentorship program to include people born between 
