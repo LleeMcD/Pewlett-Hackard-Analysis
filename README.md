@@ -19,7 +19,7 @@ The analysis findings were as follows:
   - Assistant Engineer - 1,761
   - Manager - 2
 
-4. The Sales and Development teams stand to lose 18,928 employees due to retirement.
+4. The Sales and Development teams will be losing 18,928 employees to retirement, with 31,047 employees remaining. Management was not as concerned about the ability to fill these positions. 
 - Development - 11,627
 - Sales - 7,301
 
@@ -35,7 +35,7 @@ The analysis findings were as follows:
 ## Summary and Recommendations
 The majority of soon to be vacated positions are filled by highly skilled and experienced individuals. It could be challenging to find qualified candidates to replace them. Because of this, Pewlett-Hackard created a mentorship program. The expectation is that the mentors are more knowledgeable and experienced, so they will be qualified to train new employees to fill the open positions as people retire. The mentorship of employees who will be filling Senior Engineer, Senior Staff and Engineer positions could be challenging due to the number of postions that will need to be filled. 
 
-One recommendation based on the findings would be to consider expanding the mentorship program to include more experienced employees who clearly demonstrate necessary skills and aptitude. The criteria for the mentorship program is having a birthdate in the year 1965 and a qualifying title. The data demonstrates that there is a large pool of potential candidates born in 1961 or after who could provide mentoring to new employees. Some of these employees may be nearing retirement but could be a valuable resorce for the mentorship program.  
+One recommendation based on the findings would be to consider expanding the mentorship program to include more experienced employees who clearly demonstrate necessary skills and aptitude. The criteria for the mentorship program is having a birthdate in the year 1965 and a qualifying title. The data demonstrates that there is a large pool of potential candidates born in 1961 or after who could provide mentoring to new employees. Some of these employees may be nearing retirement but could provide valuable resorces to the mentorship program.  
 - The breakdown of current employees who were born in the year 1961 or after, that are not retiring are listed below:
   - Senior Engineer - 16,299
   - Senior Staff - 16,948
