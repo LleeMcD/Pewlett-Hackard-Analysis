@@ -8,7 +8,7 @@ The analysis was focused on the following:
 - The number of remaining positions that will need to be filled by other means, e.g., eliminated, combined with other roles or filled by external candidates.
 ## Results
 The analysis findings were as follows:
--	There are 90,398 employees who were born between 1952 and 1955, who are eligible for retirement.  A breakdown of retirement eligible employees by title is as follows:
+-	There are 90,398 employees who were born between 1952 and 1955, who are eligible for retirement. A breakdown of employees by title is as follows:  
   - Senior Engineer 29,414
   - Senior Staff 28,254
   - Engineer 14,222
@@ -17,4 +17,4 @@ The analysis findings were as follows:
   - Assistant Engineer 1,761
   - Manager 2
 
-The majority of soon to be vacated positions are filled by highly skilled and experienced individuals. In response to these findings, the company came up with a plan to have a mentorship program to mitigate the  
+The majority of soon to be vacated positions are filled by highly skilled and experienced individuals. 
