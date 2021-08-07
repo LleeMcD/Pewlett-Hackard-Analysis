@@ -1,10 +1,10 @@
 # Pewlett-Hackard Analysis - DRAFT
 ## Overview
-Pewlett-Hackard is a large tech company that employs several thousand people. Many of it's employees are baby-boomers, who are at or near retirment age. The purpose of this analysis is to assist Pewlett-Hackard’s management team with the determination of how many positions and role types will be left vacant in the wake of the "Silver Tsunami".
+Pewlett-Hackard is a large tech company that employs several thousand people. Many of it's employees are baby-boomers, who are at or near retirment age. The purpose of this analysis is to assist Pewlett-Hackard’s management team with the determination of how many positions will be left vacant in the wake of the "Silver Tsunami" and how to address the associated knowlege drain.
 The analysis was focused on the following:
 - The number of employees retiring over the next few years based on age and title.
 - The number of positions that will need to be filled.
-- The number of employees eligible for a mentorship program that would provide training to fill positions left open by those retiring.
+- The number of employees eligible for a mentorship program. The objective of the mentorship program is to train employees to fill positions left open by those retiring.
 - The number of remaining positions that will need to be filled by other means, e.g., eliminated, combined with other roles or filled by external candidates.
 ## Results
 The analysis findings were as follows:
@@ -17,7 +17,7 @@ The analysis findings were as follows:
   - Assistant Engineer 1,761
   - Manager 2
 
--  There are currently 1,549 employees who are eligible for participating in a mentorship program. These individuals will train new employees to fill the soon to be vacant positions. 
+There are currently 1,549 employees who are eligible for participating in a mentorship program. These individuals will train new employees to fill the soon to be vacant positions. The breakdown of positions for these employees is as follows:
   - Senior Engineer 419
   - Senior Staff 286
   - Engineer 289
@@ -31,5 +31,16 @@ The majority of soon to be vacated positions are filled by highly skilled and ex
 Qualifying criteria for the mentorship program are:
 - Current employee
 - Birth year 1965. 
-The expectation is that the mentors are more knowledgeable and experienced so they will be qualified to train new employees to fill the open positions as people retire. With over 90 thousand people retiring, this does not seem like enough mentors to train new people. Expanding the mentorship program to include people born between 
+The expectation is that the mentors are more knowledgeable and experienced, so they will be qualified to train new employees to fill the open positions as people retire. With over 90 thousand people retiring, this could pose a challenge. 
+
+## Recommendations
+Recommendations based on the findings of the analysis are as follows:
+- Consider expanding the mentorship program to include a few younger, experienced employees.
+- Use the mentorship program as a catalyst for creating a mentoring culture overall.
+- Use Six Sigma Lean practices to streamline business processes and eliminate roles that do not support forward momentum.
+- Provide incentive to delay retirement for productive baby-boomers.
+- Offer consultant positions to selected retirees to help mitigate the knowledge drain as employees retire.
+ 
+
+
 
