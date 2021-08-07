@@ -17,4 +17,19 @@ The analysis findings were as follows:
   - Assistant Engineer 1,761
   - Manager 2
 
-The majority of soon to be vacated positions are filled by highly skilled and experienced individuals. 
+-  There are currently 1,549 employees who are eligible for participating in a mentorship program. These individuals will train new employees to fill the soon to be vacant positions. 
+  - Senior Engineer 419
+  - Senior Staff 286
+  - Engineer 289
+  - Staff 438
+  - Technique Leader 77
+  - Assistant Engineer 43
+  - Manager 0
+
+## Summary
+The majority of soon to be vacated positions are filled by highly skilled and experienced individuals. It could be challenging to find qualified candidates to replace them. Because of this, Pewlett-Hackard created a mentorship program. 
+Qualifying criteria for the mentorship program were:
+- Current employee
+- Birth year 1965. 
+The expectation is that the mentors are more knowledgeable and experienced so they will be qualified to train new employees to fill the open positions as people retire. With over 90 thousand people retiring, this does not seem like enough mentors to train new people. Expanding the mentorship program to include people born between 
+
