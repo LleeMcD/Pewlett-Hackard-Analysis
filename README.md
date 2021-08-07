@@ -5,7 +5,7 @@ The analysis was focused on the following:
 - The number of employees retiring over the next few years based on age and title.
 - The number of positions that will need to be filled.
 - The number of employees eligible for a mentorship program.
-- The number of remaining positions that will need to be filled by other means, e.g., eliminated, combined with other roles or filled by external candidates.
+- The number of remaining positions that may need to be filled by other means, e.g., combined with other roles, filled by external candidates or eliminated.
 ## Results
 The analysis findings were as follows:
 -	There are 90,398 employees who were born between 1952 and 1955, who are eligible for retirement. A breakdown of employees by title is as follows:  
