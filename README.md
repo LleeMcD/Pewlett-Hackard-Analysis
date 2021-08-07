@@ -4,7 +4,7 @@ Pewlett-Hackard is a large tech company that employs several thousand people. Ma
 The analysis was focused on the following:
 - The number of employees retiring over the next few years based on age and title.
 - The number of positions that will need to be filled.
-- The number of employees eligible for a mentorship program. The objective of the mentorship program is to train employees to fill positions left open by those retiring.
+- The number of employees eligible for a mentorship program.
 - The number of remaining positions that will need to be filled by other means, e.g., eliminated, combined with other roles or filled by external candidates.
 ## Results
 The analysis findings were as follows:
